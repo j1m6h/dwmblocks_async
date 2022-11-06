@@ -1,6 +1,5 @@
 #define CMDLENGTH 45
 #define DELIMITER "  "
-#define CLICKABLE_BLOCKS
 
 const Block blocks[] = {
         BLOCK("~/.local/bin/sb_volume",         0,      10),
