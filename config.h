@@ -1,5 +1,5 @@
 #define CMDLENGTH 45
-#define DELIMITER "  "
+#define DELIMITER "^c#D1D1D1^ | "
 
 const Block blocks[] = {
         BLOCK("~/.local/bin/sb_volume",         0,      10),
