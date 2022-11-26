@@ -1,8 +1,8 @@
 #define CMDLENGTH 45
-#define DELIMITER "^c#D1D1D1^ | "
+#define DELIMITER "^c#D1D1D1^  "
 
 const Block blocks[] = {
-        BLOCK("~/.local/bin/sb_volume",         0,      10),
+	BLOCK("~/.local/bin/sb_volume",         0,      10),
         BLOCK("~/.local/bin/sb_kernel",		0,      1),
 	BLOCK("~/.local/bin/sb_pkgs",           60,     2),
         BLOCK("~/.local/bin/sb_memory",         2,      3),
